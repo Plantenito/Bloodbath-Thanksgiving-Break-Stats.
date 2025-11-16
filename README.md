@@ -7,7 +7,7 @@ All of my stats during my Thanksgiving break where I played Bloodbath for 7 days
 <H4 STYLE="COLOR:#000000; FONT-FAMILY:ALGERIAN, INK FREE;">
 <U>
 <DL>
-Best Right Now: <A HREF="https://youtu.be/npRoy_8UsMk"</A>
+<A HREF="https://youtu.be/npRoy_8UsMk"</A>Best Right Now
 <DT STYLE="COLOR:GREEN;">
 </DL>
 <DL>
