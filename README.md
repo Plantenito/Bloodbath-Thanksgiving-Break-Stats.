@@ -1,5 +1,5 @@
 # Bloodbath Thanksgiving Break Stats
-All of my stats during my Thanksgiving break where I played 7 days in a row.
+All of my stats during my Thanksgiving break where I played Bloodbath for 7 days in a row.
 <DOCTYPE HTML>
 <HTML>
 <HEAD>
