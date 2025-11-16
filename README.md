@@ -4,8 +4,10 @@ All of my stats during my Thanksgiving break where I played Bloodbath for 7 days
 <HEAD>
 </HEAD>
 <BODY STYLE="BACKGROUND-COLOR:RED">
+<H2 STYLE="COLOR:#000000; FONT-FAMILY:ALGERIAN, INK FREE;">
+Individual stats for all the days.
+</H2>
 <H4 STYLE="COLOR:#000000; FONT-FAMILY:ALGERIAN, INK FREE;">
-<U>
 <DL>
 <A HREF="https://youtu.be/npRoy_8UsMk"</A>Best Right Now
 <DT STYLE="COLOR:GREEN;">
@@ -43,7 +45,6 @@ All of my stats during my Thanksgiving break where I played Bloodbath for 7 days
 Summary of days 11-24/11-30
 </H2>
 <H4 STYLE="COLOR:#000000; FONT-FAMILY:INK FREE, INK FREE;">
-<BR>
 Best day during Thanksgiving break (Basically the day that had the best run):
 <BR>
 <BR>
@@ -99,12 +100,11 @@ GGboy and Riot attempts from 0:
 Attempts before and after this grind:
 </H2>
 <H4 STYLE="COLOR:#000000; FONT-FAMILY:INK FREE, INK FREE;">
-<BR>
 Before this grind=???
 <BR>
 After this grind=???
 <BR>
+Total attempts during the 7 days:???
 </H4>
-How much attempts in total during the 7 days I did=???
 </BODY>
 </HTML>
