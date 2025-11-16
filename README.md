@@ -103,6 +103,8 @@ Before=
 After= 
 <BR>
 Difference=
+<BR>
+Total attempts during the 7 days=
 </H4>
 </BODY>
 </HTML>
