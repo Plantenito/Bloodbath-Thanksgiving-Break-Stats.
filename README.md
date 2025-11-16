@@ -1,5 +1,5 @@
 # Bloodbath Thanksgiving Break Stats
-All of my stats during my Thanksgiving break where I played 7 days in a row.
+All of my stats during my Thanksgiving break where I played 7 days in a row. Current day: 0/7
 <!DOCTYPE HTML>
 <HTML>
 <HEAD>
@@ -41,6 +41,9 @@ All of my stats during my Thanksgiving break where I played 7 days in a row.
 </DT>
 </U>
 </H4>
+<H2 STYLE="COLOR:#000000; FONT-FAMILY:INK FREE, INK FREE;">
+Summary of all 7 days
+</H2>
 <H4 STYLE="COLOR:#000000; FONT-FAMILY:INK FREE, INK FREE;">
 <BR>
 Best day during Thanksgiving break:
@@ -92,7 +95,11 @@ Giron pass rate from 0:
 <BR>
 GGboy and Riot attempts from 0:
 <BR>
-<BR>
+</H4>
+<H2 STYLE="COLOR:#000000; FONT-FAMILY:INK FREE, INK FREE;>
+Attempts
+</H2>
+<H4 STYLE="COLOR:#000000; FONT-FAMILY:INK FREE, INK FREE;>
 Attempts before and after this grind:
 <BR>
 Before= 
@@ -101,10 +108,10 @@ After=
 <BR>
 Total attempts during the 7 days=
 <BR>
-<BR>
-Overall enjoyment of the level during the 7 days:
-<BR>
-???/100
 </H4>
+<H2>
+Enjoyment:
+</H2>
+???/100
 </BODY>
 </HTML>
