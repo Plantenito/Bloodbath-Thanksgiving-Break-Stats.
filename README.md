@@ -3,9 +3,6 @@ All of my stats during my Thanksgiving break where I played Bloodbath for 7 days
 <DOCTYPE HTML>
 <HTML>
 <HEAD>
-<TITLE>
-Bloodbath Thanksgiving Break Stats.
-</TITLE>
 </HEAD>
 <BODY STYLE="BACKGROUND-COLOR:RED">
 <H4 STYLE="COLOR:#000000; FONT-FAMILY:ALGERIAN, INK FREE;">
