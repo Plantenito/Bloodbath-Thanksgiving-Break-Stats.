@@ -39,7 +39,7 @@ All of my stats during my Thanksgiving break where I played Bloodbath for 7 days
 <A HREF="file:///C:/Users/aiden/OneDrive/Documents/11-30-25.html"</A>11-30-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">(What the best was today)</A>
 </DT>
 </H4>
-<H2>
+<H2 STYLE="COLOR:#000000; FONT-FAMILY:INK FREE, INK FREE;">
 Summary of days 11-24/11-30
 </H2>
 <H4 STYLE="COLOR:#000000; FONT-FAMILY:INK FREE, INK FREE;">
@@ -94,15 +94,17 @@ Giron pass rate from 0:
 GGboy and Riot attempts from 0:
 <BR>
 <BR>
+</H4>
+<H2 STYLE="COLOR:#000000; FONT-FAMILY:INK FREE, INK FREE;">
 Attempts before and after this grind:
+</H2>
+<H4 STYLE="COLOR:#000000; FONT-FAMILY:INK FREE, INK FREE;">
 <BR>
 Before this grind=???
 <BR>
 After this grind=???
 <BR>
 </H4>
-<H2>
 How much attempts in total during the 7 days I did=???
-</H2>
 </BODY>
 </HTML>
