@@ -105,6 +105,10 @@ After=
 Difference=
 <BR>
 Total attempts during the 7 days=
+<BR>
+Overall enjoyment of the level during the 7 days:
+<BR>
+???/100
 </H4>
 </BODY>
 </HTML>
