@@ -13,31 +13,31 @@ All of my stats during my Thanksgiving break where I played 7 days in a row.
 </DL>
 <DL>
 <DT STYLE="COLOR:#6D72C3;">
-<A HREF="https://github.com/Plantenito/11-24-25"</A>11-24-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">(What the best was today)</A>
+<A HREF="https://github.com/Plantenito/11-24-25"</A>11-24-25: <A HREF="https://youtu.be/npRoy_8UsMk">(What the best was today)</A>
 </DT>
 <BR>
 <DT STYLE="COLOR:#F24236;">
-<A HREF="https://github.com/Plantenito/11-25-25"</A>11-25-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">(What the best was today)</A>
+<A HREF="https://github.com/Plantenito/11-25-25"</A>11-25-25: <A HREF="https://youtu.be/npRoy_8UsMk">(What the best was today)</A>
 </DT>
 <BR>
 <DT STYLE="COLOR:#C1666B;">
-<A HREF="https://github.com/Plantenito/11-26-25"</A>11-26-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">(What the best was today)</A>
+<A HREF="https://github.com/Plantenito/11-26-25"</A>11-26-25: <A HREF="https://youtu.be/npRoy_8UsMk">(What the best was today)</A>
 </DT>
 <BR>
 <DT STYLE="COLOR:#E71D36;">
-<A HREF="https://github.com/Plantenito/11-27-25"</A>11-27-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">(What the best was today)</A>
+<A HREF="https://github.com/Plantenito/11-27-25"</A>11-27-25: <A HREF="https://youtu.be/npRoy_8UsMk">(What the best was today)</A>
 </DT>
 <BR>
 <DT STYLE="COLOR:#14CC60;">
-<A HREF="https://github.com/Plantenito/11-28-25"</A>11-28-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">(What the best was today)</A>
+<A HREF="https://github.com/Plantenito/11-28-25"</A>11-28-25: <A HREF="https://youtu.be/npRoy_8UsMk">(What the best was today)</A>
 </DT>
 <BR>
 <DT STYLE="COLOR:#1985A1;">
-<A HREF="https://github.com/Plantenito/11-29-25"</A>11-29-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">(What the best was today)</A>
+<A HREF="https://github.com/Plantenito/11-29-25"</A>11-29-25: <A HREF="https://youtu.be/npRoy_8UsMk">(What the best was today)</A>
 </DT>
 <BR>
 <DT STYLE="COLOR:#5158BB;">
-<A HREF="https://github.com/Plantenito/11-30-25"</A>11-30-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">(What the best was today)</A>
+<A HREF="https://github.com/Plantenito/11-30-25"</A>11-30-25: <A HREF="https://youtu.be/npRoy_8UsMk">(What the best was today)</A>
 </DT>
 </U>
 </H4>
