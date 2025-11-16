@@ -1,5 +1,5 @@
 # Bloodbath Thanksgiving Break Stats
-All of my stats during my Thanksgiving break where I played 7 days in a row.
+All of my stats during my Thanksgiving break where I played Bloodbath for 7 days in a row.
 <DOCTYPE HTML>
 <HTML>
 <HEAD>
@@ -11,42 +11,41 @@ Bloodbath Thanksgiving Break Stats.
 <H4 STYLE="COLOR:#000000; FONT-FAMILY:ALGERIAN, INK FREE;">
 <U>
 <DL>
-<A HREF="https://youtu.be/npRoy_8UsMk">Best Right Now</A>
+<A HREF="https://youtu.be/npRoy_8UsMk"></A>Best Right Now
 <DT STYLE="COLOR:GREEN;">
 </DL>
 <DL>
 <DT STYLE="COLOR:#6D72C3;">
-<A HREF="file:///C:/Users/aiden/OneDrive/Documents/11-24-25.html"</A>11-24-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">Grief 83%</A>
+<A HREF="file:///C:/Users/aiden/OneDrive/Documents/11-24-25.html"</A>11-24-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">(What the best was today)</A>
 </DT>
 <BR>
 <DT STYLE="COLOR:#F24236;">
-<A HREF="file:///C:/Users/aiden/OneDrive/Documents/11-25-25.html"</A>11-25-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">Grief 83%</A>
+<A HREF="file:///C:/Users/aiden/OneDrive/Documents/11-25-25.html"</A>11-25-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">(What the best was today)</A>
 </DT>
 <BR>
 <DT STYLE="COLOR:#C1666B;">
-<A HREF="file:///C:/Users/aiden/OneDrive/Documents/11-26-25.html"</A>11-26-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">Grief 83%</A>
+<A HREF="file:///C:/Users/aiden/OneDrive/Documents/11-26-25.html"</A>11-26-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">(What the best was today)</A>
 </DT>
 <BR>
 <DT STYLE="COLOR:#E71D36;">
-<A HREF="file:///C:/Users/aiden/OneDrive/Documents/11-27-25.html"</A>11-27-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">Grief 83%</A>
+<A HREF="file:///C:/Users/aiden/OneDrive/Documents/11-27-25.html"</A>11-27-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">(What the best was today)</A>
 </DT>
 <BR>
 <DT STYLE="COLOR:#14CC60;">
-<A HREF="file:///C:/Users/aiden/OneDrive/Documents/11-28-25.html"</A>11-28-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">Grief 83%</A>
+<A HREF="file:///C:/Users/aiden/OneDrive/Documents/11-28-25.html"</A>11-28-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">(What the best was today)</A>
 </DT>
 <BR>
 <DT STYLE="COLOR:#1985A1;">
-<A HREF="file:///C:/Users/aiden/OneDrive/Documents/11-29-25.html"</A>11-29-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">Grief 83%</A>
+<A HREF="file:///C:/Users/aiden/OneDrive/Documents/11-29-25.html"</A>11-29-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">(What the best was today)</A>
 </DT>
 <BR>
 <DT STYLE="COLOR:#5158BB;">
-<A HREF="file:///C:/Users/aiden/OneDrive/Documents/11-30-25.html"</A>11-30-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">Grief 83%</A>
+<A HREF="file:///C:/Users/aiden/OneDrive/Documents/11-30-25.html"</A>11-30-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">(What the best was today)</A>
 </DT>
-</U>
 </H4>
 <H4 STYLE="COLOR:#000000; FONT-FAMILY:INK FREE, INK FREE;">
 <BR>
-Best day during Thanksgiving break:
+Best day during Thanksgiving break (Basically the day that had the best run):
 <BR>
 <BR>
 Best from 0 during Thanksgiving break:
@@ -55,7 +54,7 @@ Best from 0 during Thanksgiving break:
 Best run to 100 during Thanksgiving break:
 <BR>
 <BR>
-Best run in Start Positions in terms of level percentage:
+Best run in Start Positions in terms of the percentage of the level I completed:
 <BR>
 <BR>
 Total Michigun attempts from 0:
@@ -93,10 +92,10 @@ Giron attempts from 0:
 Giron pass rate from 0:
 <BR>
 <BR>
-Ending attempts from 0:
+GGboy and Riot attempts from 0:
 <BR>
 <BR>
-Attempts before and after this grind: Before= After= Difference=
+Attempts before and after this grind: Before= After= Total attempts during the grind=
 </H4>
 </BODY>
 </HTML>
