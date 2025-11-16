@@ -91,7 +91,13 @@ Giron pass rate from 0:
 GGboy and Riot attempts from 0:
 <BR>
 <BR>
-Attempts before and after this grind: Before= After= Total attempts during the grind=
+Attempts before and after this grind:
+<BR>
+Before this grind=???
+<BR>
+After this grind=???
+<BR>
+How much attempts in total during the 7 days I did=???
 </H4>
 </BODY>
 </HTML>
