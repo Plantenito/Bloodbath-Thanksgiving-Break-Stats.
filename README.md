@@ -1,20 +1,22 @@
-All of my stats during my Thanksgiving break where I played Bloodbath for 7 days in a row. Current Day: 0/7
-<DOCTYPE HTML>
+# Bloodbath Thanksgiving Break Stats
+All of my stats during my Thanksgiving break where I played 7 days in a row.
+<!DOCTYPE HTML>
 <HTML>
 <HEAD>
+<TITLE>
+Bloodbath Thanksgiving Break Stats.
+</TITLE>
 </HEAD>
 <BODY STYLE="BACKGROUND-COLOR:RED">
-<H2 STYLE="COLOR:#000000; FONT-FAMILY:ALGERIAN, INK FREE;">
-Individual stats for all the days.
-</H2>
 <H4 STYLE="COLOR:#000000; FONT-FAMILY:ALGERIAN, INK FREE;">
+<U>
 <DL>
-<A HREF="https://youtu.be/npRoy_8UsMk"</A>Best Right Now
+<A HREF="https://youtu.be/npRoy_8UsMk">Best Right Now</A>
 <DT STYLE="COLOR:GREEN;">
 </DL>
 <DL>
 <DT STYLE="COLOR:#6D72C3;">
-<A HREF="https://github.com/Plantenito/11-24-25?tab=readme-ov-file"</A>11-24-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">(What the best was today)</A>
+<A HREF="file:///C:/Users/aiden/OneDrive/Documents/11-24-25.html"</A>11-24-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">(What the best was today)</A>
 </DT>
 <BR>
 <DT STYLE="COLOR:#F24236;">
@@ -40,12 +42,11 @@ Individual stats for all the days.
 <DT STYLE="COLOR:#5158BB;">
 <A HREF="file:///C:/Users/aiden/OneDrive/Documents/11-30-25.html"</A>11-30-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">(What the best was today)</A>
 </DT>
+</U>
 </H4>
-<H2 STYLE="COLOR:#000000; FONT-FAMILY:INK FREE, INK FREE;">
-Summary of days 11-24/11-30
-</H2>
 <H4 STYLE="COLOR:#000000; FONT-FAMILY:INK FREE, INK FREE;">
-Best day during Thanksgiving break (Basically the day that had the best run):
+<BR>
+Best day during Thanksgiving break:
 <BR>
 <BR>
 Best from 0 during Thanksgiving break:
@@ -54,7 +55,7 @@ Best from 0 during Thanksgiving break:
 Best run to 100 during Thanksgiving break:
 <BR>
 <BR>
-Best run in Start Positions in terms of the percentage of the level I completed:
+Best run in Start Positions in terms of level percentage:
 <BR>
 <BR>
 Total Michigun attempts from 0:
@@ -95,16 +96,19 @@ Giron pass rate from 0:
 GGboy and Riot attempts from 0:
 <BR>
 <BR>
-</H4>
-<H2 STYLE="COLOR:#000000; FONT-FAMILY:INK FREE, INK FREE;">
 Attempts before and after this grind:
-</H2>
-<H4 STYLE="COLOR:#000000; FONT-FAMILY:INK FREE, INK FREE;">
-Before this grind=???
 <BR>
-After this grind=???
+Before= 
 <BR>
-Total attempts during the 7 days:???
+After= 
+<BR>
+Difference=
+<BR>
+Total attempts during the 7 days=
+<BR>
+Overall enjoyment of the level during the 7 days:
+<BR>
+???/100
 </H4>
 </BODY>
 </HTML>
