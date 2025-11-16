@@ -94,6 +94,9 @@ Giron pass rate from 0:
 <BR>
 <BR>
 Ending attempts from 0:
+<BR>
+<BR>
+Attempts before and after this grind: Before= After= Difference=
 </H4>
 </BODY>
 </HTML>
