@@ -4,12 +4,16 @@ All of my stats during my Thanksgiving break where I played 7 days in a row.
 <HTML>
 <HEAD>
 <TITLE>
-Bloodbath Thanksgiving Break grind.
+Bloodbath Thanksgiving Break Stats.
 </TITLE>
 </HEAD>
 <BODY STYLE="BACKGROUND-COLOR:RED">
 <H4 STYLE="COLOR:#000000; FONT-FAMILY:ALGERIAN, INK FREE;">
 <U>
+<DL>
+<A HREF="https://youtu.be/npRoy_8UsMk">Best Right Now</A>
+<DT STYLE="COLOR:GREEN;">
+</DL>
 <DL>
 <DT STYLE="COLOR:#6D72C3;">
 <A HREF="file:///C:/Users/aiden/OneDrive/Documents/11-24-25.html"</A>11-24-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">Grief 83%</A>
