@@ -14,31 +14,31 @@ Individual stats for all the days.
 </DL>
 <DL>
 <DT STYLE="COLOR:#6D72C3;">
-<A HREF="https://github.com/Plantenito/11-24-25?tab=readme-ov-file"</A>11-24-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">(What the best was today)</A>
+<A HREF="https://github.com/Plantenito/11-24-25?tab=readme-ov-file"</A>11-24-25: <A HREF="https://youtu.be/npRoy_8UsMk">(What the best was today)</A>
 </DT>
 <BR>
 <DT STYLE="COLOR:#F24236;">
-<A HREF="file:///C:/Users/aiden/OneDrive/Documents/11-25-25.html"</A>11-25-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">(What the best was today)</A>
+<A HREF="file:///C:/Users/aiden/OneDrive/Documents/11-25-25.html"</A>11-25-25: <A HREF="https://youtu.be/npRoy_8UsMk">(What the best was today)</A>
 </DT>
 <BR>
 <DT STYLE="COLOR:#C1666B;">
-<A HREF="file:///C:/Users/aiden/OneDrive/Documents/11-26-25.html"</A>11-26-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">(What the best was today)</A>
+<A HREF="file:///C:/Users/aiden/OneDrive/Documents/11-26-25.html"</A>11-26-25: <A HREF="https://youtu.be/npRoy_8UsMk">(What the best was today)</A>
 </DT>
 <BR>
 <DT STYLE="COLOR:#E71D36;">
-<A HREF="file:///C:/Users/aiden/OneDrive/Documents/11-27-25.html"</A>11-27-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">(What the best was today)</A>
+<A HREF="file:///C:/Users/aiden/OneDrive/Documents/11-27-25.html"</A>11-27-25: <A HREF="https://youtu.be/npRoy_8UsMk">(What the best was today)</A>
 </DT>
 <BR>
 <DT STYLE="COLOR:#14CC60;">
-<A HREF="file:///C:/Users/aiden/OneDrive/Documents/11-28-25.html"</A>11-28-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">(What the best was today)</A>
+<A HREF="file:///C:/Users/aiden/OneDrive/Documents/11-28-25.html"</A>11-28-25: <A HREF="https://youtu.be/npRoy_8UsMk">(What the best was today)</A>
 </DT>
 <BR>
 <DT STYLE="COLOR:#1985A1;">
-<A HREF="file:///C:/Users/aiden/OneDrive/Documents/11-29-25.html"</A>11-29-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">(What the best was today)</A>
+<A HREF="file:///C:/Users/aiden/OneDrive/Documents/11-29-25.html"</A>11-29-25: <A HREF="https://youtu.be/npRoy_8UsMk">(What the best was today)</A>
 </DT>
 <BR>
 <DT STYLE="COLOR:#5158BB;">
-<A HREF="file:///C:/Users/aiden/OneDrive/Documents/11-30-25.html"</A>11-30-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">(What the best was today)</A>
+<A HREF="file:///C:/Users/aiden/OneDrive/Documents/11-30-25.html"</A>11-30-25: <A HREF="https://youtu.be/npRoy_8UsMk">(What the best was today)</A>
 </DT>
 </H4>
 <H2 STYLE="COLOR:#000000; FONT-FAMILY:INK FREE, INK FREE;">
