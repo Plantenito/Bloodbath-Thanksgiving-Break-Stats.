@@ -42,7 +42,6 @@ Bloodbath Thanksgiving Break Stats.
 <DT STYLE="COLOR:#5158BB;">
 <A HREF="file:///C:/Users/aiden/OneDrive/Documents/11-30-25.html"</A>11-30-25: <A HREF="https://youtu.be/mp8TSHLoW8Q?si=jDsMm0puSY1cU4eg">(What the best was today)</A>
 </DT>
-</U>
 </H4>
 <H4 STYLE="COLOR:#000000; FONT-FAMILY:INK FREE, INK FREE;">
 <BR>
