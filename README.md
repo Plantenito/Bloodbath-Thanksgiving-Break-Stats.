@@ -1,4 +1,4 @@
-All of my stats during my Thanksgiving break where I played Bloodbath for 7 days in a row.
+All of my stats during my Thanksgiving break where I played Bloodbath for 7 days in a row. Current Day: 0/7
 <DOCTYPE HTML>
 <HTML>
 <HEAD>
