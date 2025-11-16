@@ -9,42 +9,42 @@ All of my stats during my Thanksgiving break where I played 7 days in a row. Cur
 <U>
 <DL>
 <A HREF="https://youtu.be/npRoy_8UsMk">Best Right Now</A>
-<DT STYLE="COLOR:GREEN;">
+<DT>
 </DL>
 <DL>
-<DT STYLE="COLOR:#6D72C3;">
+<DT>
 <A HREF="https://github.com/Plantenito/11-24-25"</A>11-24-25: <A HREF="https://youtu.be/npRoy_8UsMk">(What the best was today)</A>
 </DT>
 <BR>
-<DT STYLE="COLOR:#F24236;">
+<DT>
 <A HREF="https://github.com/Plantenito/11-25-25"</A>11-25-25: <A HREF="https://youtu.be/npRoy_8UsMk">(What the best was today)</A>
 </DT>
 <BR>
-<DT STYLE="COLOR:#C1666B;">
+<DT>
 <A HREF="https://github.com/Plantenito/11-26-25"</A>11-26-25: <A HREF="https://youtu.be/npRoy_8UsMk">(What the best was today)</A>
 </DT>
 <BR>
-<DT STYLE="COLOR:#E71D36;">
+<DT>
 <A HREF="https://github.com/Plantenito/11-27-25"</A>11-27-25: <A HREF="https://youtu.be/npRoy_8UsMk">(What the best was today)</A>
 </DT>
 <BR>
-<DT STYLE="COLOR:#14CC60;">
+<DT>
 <A HREF="https://github.com/Plantenito/11-28-25"</A>11-28-25: <A HREF="https://youtu.be/npRoy_8UsMk">(What the best was today)</A>
 </DT>
 <BR>
-<DT STYLE="COLOR:#1985A1;">
+<DT>
 <A HREF="https://github.com/Plantenito/11-29-25"</A>11-29-25: <A HREF="https://youtu.be/npRoy_8UsMk">(What the best was today)</A>
 </DT>
 <BR>
-<DT STYLE="COLOR:#5158BB;">
+<DT>
 <A HREF="https://github.com/Plantenito/11-30-25"</A>11-30-25: <A HREF="https://youtu.be/npRoy_8UsMk">(What the best was today)</A>
 </DT>
 </U>
 </H4>
-<H2 STYLE="COLOR:#000000; FONT-FAMILY:INK FREE, INK FREE;">
+<H2>
 Summary of all 7 days
 </H2>
-<H4 STYLE="COLOR:#000000; FONT-FAMILY:INK FREE, INK FREE;">
+<H4>
 <BR>
 Best day during Thanksgiving break:
 <BR>
@@ -96,11 +96,10 @@ Giron pass rate from 0:
 GGboy and Riot attempts from 0:
 <BR>
 </H4>
-<H2 STYLE="COLOR:#000000; FONT-FAMILY:INK FREE, INK FREE;>
-Attempts
-</H2>
-<H4 STYLE="COLOR:#000000; FONT-FAMILY:INK FREE, INK FREE;>
+<H2>
 Attempts before and after this grind:
+</H2>
+<H4>
 <BR>
 Before= 
 <BR>
