@@ -45,7 +45,6 @@ All of my stats during my Thanksgiving break where I played 7 days in a row. Cur
 Summary of all 7 days
 </H2>
 <H4>
-<BR>
 Best day during Thanksgiving break:
 <BR>
 <BR>
@@ -100,7 +99,6 @@ GGboy and Riot attempts from 0:
 Attempts before and after this grind:
 </H2>
 <H4>
-<BR>
 Before= 
 <BR>
 After= 
