@@ -11,7 +11,7 @@ Bloodbath Thanksgiving Break Stats.
 <H4 STYLE="COLOR:#000000; FONT-FAMILY:ALGERIAN, INK FREE;">
 <U>
 <DL>
-<A HREF="https://youtu.be/npRoy_8UsMk"></A>Best Right Now
+Best Right Now<A HREF="https://youtu.be/npRoy_8UsMk"></A>
 <DT STYLE="COLOR:GREEN;">
 </DL>
 <DL>
