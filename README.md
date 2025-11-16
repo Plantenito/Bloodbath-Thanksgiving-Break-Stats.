@@ -34,7 +34,7 @@ Individual stats for all the days.
 </DT>
 <BR>
 <DT STYLE="COLOR:#1985A1;">
-<A HREF="file:///C:/Users/aiden/OneDrive/Documents/11-29-25.html"</A>11-29-25: <A HREF="https://youtu.be/npRoy_8UsMk">(What the best was today)</A>
+<A HREF="https://github.com/Plantenito/11-29-25?tab=readme-ov-file"</A>11-29-25: <A HREF="https://youtu.be/npRoy_8UsMk">(What the best was today)</A>
 </DT>
 <BR>
 <DT STYLE="COLOR:#5158BB;">
