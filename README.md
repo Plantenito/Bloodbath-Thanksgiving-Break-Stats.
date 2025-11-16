@@ -45,7 +45,7 @@ Bloodbath Thanksgiving Break Stats.
 </H4>
 <H4 STYLE="COLOR:#000000; FONT-FAMILY:INK FREE, INK FREE;">
 <BR>
-Best day during Thanksgiving break:
+Best day during Thanksgiving break (Basically the day that had the best run):
 <BR>
 <BR>
 Best from 0 during Thanksgiving break:
@@ -54,7 +54,7 @@ Best from 0 during Thanksgiving break:
 Best run to 100 during Thanksgiving break:
 <BR>
 <BR>
-Best run in Start Positions in terms of level percentage:
+Best run in Start Positions in terms of the percentage of the level I completed:
 <BR>
 <BR>
 Total Michigun attempts from 0:
@@ -92,10 +92,10 @@ Giron attempts from 0:
 Giron pass rate from 0:
 <BR>
 <BR>
-Ending attempts from 0:
+GGboy and Riot attempts from 0:
 <BR>
 <BR>
-Attempts before and after this grind: Before= After= Difference=
+Attempts before and after this grind: Before= After= Total attempts during the grind=
 </H4>
 </BODY>
 </HTML>
