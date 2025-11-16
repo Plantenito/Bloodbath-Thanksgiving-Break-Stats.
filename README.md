@@ -18,7 +18,7 @@ Individual stats for all the days.
 </DT>
 <BR>
 <DT STYLE="COLOR:#F24236;">
-<A HREF="file:///C:/Users/aiden/OneDrive/Documents/11-25-25.html"</A>11-25-25: <A HREF="https://youtu.be/npRoy_8UsMk">(What the best was today)</A>
+<A HREF="https://github.com/Plantenito/11-25-25"</A>11-25-25: <A HREF="https://youtu.be/npRoy_8UsMk">(What the best was today)</A>
 </DT>
 <BR>
 <DT STYLE="COLOR:#C1666B;">
