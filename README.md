@@ -1,17 +1,13 @@
-# Bloodbath Thanksgiving Break Stats
 All of my stats during my Thanksgiving break where I played Bloodbath for 7 days in a row.
 <DOCTYPE HTML>
 <HTML>
 <HEAD>
-<TITLE>
-Bloodbath Thanksgiving Break Stats.
-</TITLE>
 </HEAD>
 <BODY STYLE="BACKGROUND-COLOR:RED">
 <H4 STYLE="COLOR:#000000; FONT-FAMILY:ALGERIAN, INK FREE;">
 <U>
 <DL>
-<A HREF="https://youtu.be/npRoy_8UsMk"></A>Best Right Now
+Best Right Now <A HREF="https://youtu.be/npRoy_8UsMk"></A>
 <DT STYLE="COLOR:GREEN;">
 </DL>
 <DL>
