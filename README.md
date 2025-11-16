@@ -99,9 +99,8 @@ Before=
 <BR>
 After= 
 <BR>
-Difference=
-<BR>
 Total attempts during the 7 days=
+<BR>
 <BR>
 Overall enjoyment of the level during the 7 days:
 <BR>
