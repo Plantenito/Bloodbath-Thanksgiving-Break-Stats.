@@ -95,7 +95,11 @@ Giron pass rate from 0:
 <BR>
 GGboy and Riot attempts from 0:
 <BR>
-<BR>
+</H4>
+<H2 STYLE="COLOR:#000000; FONT-FAMILY:INK FREE, INK FREE;>
+Attempts
+</H2>
+<H4 STYLE="COLOR:#000000; FONT-FAMILY:INK FREE, INK FREE;>
 Attempts before and after this grind:
 <BR>
 Before= 
