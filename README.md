@@ -37,7 +37,6 @@ Best runs before this grind:
 Goals:
 </H2>
 <H4>
-<BR>
 50%+ pass rate on Michigun
 <BR>
 <BR>
@@ -55,7 +54,6 @@ Goals:
 <BR>
 Beat the level!!!!!
 <BR>
-<BR>
 </H4>
 <H3>
 <DL>
@@ -66,7 +64,6 @@ Beat the level!!!!!
 </DL>
 <DL>
 <DT>
-<BR>
 <A HREF="https://github.com/Plantenito/11-24-25"</A>11-24-25: <A HREF="https://youtu.be/npRoy_8UsMk">(What the best was today)</A>
 </DT>
 <BR>
