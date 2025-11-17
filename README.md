@@ -59,6 +59,9 @@ Beat the level!!!!!
 <DL>
 <A HREF="https://youtu.be/npRoy_8UsMk">Best Right Now</A>
 </H3>
+<H2>
+Best runs from each day:
+</H2>
 <H4>
 <DT>
 </DL>
