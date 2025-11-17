@@ -136,9 +136,12 @@ Attempts before and after this grind:
 <H4>
 Before= 
 <BR>
+<BR>
 After= 
 <BR>
+<BR>
 Total attempts during the 7 days=
+<BR>
 <BR>
 </H4>
 <H2>
