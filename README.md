@@ -83,13 +83,22 @@ Best run to 100 during Thanksgiving break:
 Best run in Start Positions in terms of level percentage:
 <BR>
 <BR>
-3-Michi:???
+3-Michix???
 <BR>
 <BR>
-6-Michi:???
+3-Michix??? Now
 <BR>
 <BR>
-9-Michi:???
+6-Michix???
+<BR>
+<BR>
+6-Michix??? Now
+<BR>
+<BR>
+9-Michix???
+<BR>
+<BR>
+9-Michix??? Now
 <BR>
 <BR>
 Total Michigun attempts from 0:
