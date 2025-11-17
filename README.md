@@ -142,7 +142,6 @@ After=
 <BR>
 Total attempts during the 7 days=
 <BR>
-<BR>
 </H4>
 <H2>
 Enjoyment:
