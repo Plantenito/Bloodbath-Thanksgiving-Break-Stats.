@@ -41,7 +41,7 @@ All of my stats during my Thanksgiving break where I played 7 days in a row. Cur
 </DT>
 </U>
 </H4>
-<H2>
+<H2 STYLE="COLOR:#FF0000;">
 Summary of all 7 days
 </H2>
 <H4>
@@ -95,7 +95,7 @@ Giron pass rate from 0:
 GGboy and Riot attempts from 0:
 <BR>
 </H4>
-<H2>
+<H2 STYLE="COLOR:#FF0000;">
 Attempts before and after this grind:
 </H2>
 <H4>
@@ -106,7 +106,7 @@ After=
 Total attempts during the 7 days=
 <BR>
 </H4>
-<H2>
+<H2 STYLE="COLOR:#FF0000;">
 Enjoyment:
 </H2>
 ???/100
