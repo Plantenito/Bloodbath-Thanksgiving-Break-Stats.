@@ -11,23 +11,31 @@ Best runs before this grind:
 <H4>
 49% from 0
 <BR>
+<BR>
 52-100x2
+<BR>
 <BR>
 6-74
 <BR>
+<BR>
 26-72
+<BR>
 <BR>
 3-Michi:x26
 <BR>
+<BR>
 6-Michi:x95
 <BR>
+<BR>
 9-Michi:x200
+<BR>
 <DL>
 <A HREF="https://youtu.be/npRoy_8UsMk">Best Right Now</A>
 <DT>
 </DL>
 <DL>
 <DT>
+<BR>
 <A HREF="https://github.com/Plantenito/11-24-25"</A>11-24-25: <A HREF="https://youtu.be/npRoy_8UsMk">(What the best was today)</A>
 </DT>
 <BR>
