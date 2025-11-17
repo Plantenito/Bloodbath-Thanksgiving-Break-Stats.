@@ -82,7 +82,9 @@ Best run in Start Positions in terms of level percentage:
 <BR>
 3-Michi:???
 <BR>
+<BR>
 6-Michi:???
+<BR>
 <BR>
 9-Michi:???
 <BR>
