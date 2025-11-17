@@ -5,8 +5,23 @@ All of my stats during my Thanksgiving break where I played 7 days in a row. Cur
 <HEAD>
 </HEAD>
 <BODY>
+<H2>
+Best runs before this grind:
+</H2>
 <H4>
-<U>
+49% from 0
+<BR>
+52-100x2
+<BR>
+6-74
+<BR>
+26-72
+<BR>
+3-Michi:x26
+<BR>
+6-Michi:x95
+<BR>
+9-Michi:x200
 <DL>
 <A HREF="https://youtu.be/npRoy_8UsMk">Best Right Now</A>
 <DT>
@@ -39,13 +54,12 @@ All of my stats during my Thanksgiving break where I played 7 days in a row. Cur
 <DT>
 <A HREF="https://github.com/Plantenito/11-30-25"</A>11-30-25: <A HREF="https://youtu.be/npRoy_8UsMk">(What the best was today)</A>
 </DT>
-</U>
 </H4>
 <H2>
 Summary of all 7 days
 </H2>
 <H4>
-Best day during Thanksgiving break:
+Best day during Thanksgiving break (Basically the day that had the best runs):
 <BR>
 <BR>
 Best from 0 during Thanksgiving break:
@@ -55,6 +69,13 @@ Best run to 100 during Thanksgiving break:
 <BR>
 <BR>
 Best run in Start Positions in terms of level percentage:
+<BR>
+<BR>
+3-Michi:???
+<BR>
+6-Michi:???
+<BR>
+9-Michi:???
 <BR>
 <BR>
 Total Michigun attempts from 0:
