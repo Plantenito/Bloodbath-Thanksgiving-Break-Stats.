@@ -5,6 +5,9 @@ All of my stats during my Thanksgiving break where I played 7 days in a row. Cur
 <HEAD>
 </HEAD>
 <BODY>
+<H1>
+If the text is blue its a link. (Click on it if you want to)
+</H1>
 <H2>
 Best runs before this grind:
 </H2>
