@@ -32,9 +32,36 @@ Best runs before this grind:
 <BR>
 9-Michi:x200
 <BR>
+</H4>
+<H2>
+Goals:
+</H2>
+<H4>
 <BR>
+50%+ pass rate on Michigun
+<BR>
+<BR>
+90%+ pass rate on Evasium
+<BR>
+<BR>
+25-100
+<BR>
+<BR>
+33-100x2
+<BR>
+<BR>
+25%+ pass rate on Crack's part
+<BR>
+<BR>
+Beat the level!!!!!
+<BR>
+<BR>
+</H4>
+<H3>
 <DL>
 <A HREF="https://youtu.be/npRoy_8UsMk">Best Right Now</A>
+</H3>
+<H4>
 <DT>
 </DL>
 <DL>
