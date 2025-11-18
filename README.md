@@ -7,6 +7,9 @@ All of my stats during my Thanksgiving break where I played 7 days in a row. Cur
 <BODY>
 <H1>
 If the text is blue its a link. (Click on it if you want to)
+<BR>
+<BR>
+This will be updated as the days pass by so that all the information will stay correct.
 </H1>
 <H2>
 Best runs before this grind:
