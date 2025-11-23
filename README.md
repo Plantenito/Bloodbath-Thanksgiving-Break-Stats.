@@ -186,5 +186,6 @@ Total attempts during the 7 days=
 Enjoyment:
 </H2>
 ???/100
+<BR>
 </BODY>
 </HTML>
