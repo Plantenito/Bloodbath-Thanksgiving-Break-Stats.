@@ -4,7 +4,7 @@ All of my stats during my Thanksgiving break where I played 7 days in a row. Cur
 <HTML>
 <HEAD>
 </HEAD>
-<BODY>
+<BODY LINK="RED" ALINK="RED" VLINK="RED">
 <H1>
 If the text is blue its a link. (Click on it if you want to)
 <BR>
