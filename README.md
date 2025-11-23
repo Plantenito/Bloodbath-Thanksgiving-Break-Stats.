@@ -27,13 +27,13 @@ Best runs before this grind:
 26-72
 <BR>
 <BR>
-3-Michi:x26
+3-Michi:x38
 <BR>
 <BR>
-6-Michi:x95
+6-Michi:x108
 <BR>
 <BR>
-9-Michi:x200
+9-Michi:x246
 <BR>
 </H4>
 <H2>
